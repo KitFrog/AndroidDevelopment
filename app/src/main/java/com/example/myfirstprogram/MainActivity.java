@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import java.net.InetSocketAddress;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -26,6 +28,16 @@ public class MainActivity extends AppCompatActivity {
 
     public void Lab5(View view) {
         Intent intent = new Intent(this, VideoActivity.class);
+        startActivity(intent);
+    }
+
+    public void Lab6(View view) {
+        Intent intent = new Intent(this, SaveDataActivity.class);
+        startActivity(intent);
+    }
+
+    public void Lab7(View view) {
+        Intent intent = new Intent(this, SaveTextToFileActivity.class);
         startActivity(intent);
     }
 }
