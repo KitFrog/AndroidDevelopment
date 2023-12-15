@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">СмартСон</string>
+
+    <string name="title_sleep">Сон</string>
+    <string name="title_stats">Статистика</string>
+    <string name="title_profile">Профиль</string>
+
+    <string name="start_text">СмартСон</string>
+    <string name="start_image_description">Луна и звёзды.</string>
+    <string name="start_button_text">Старт</string>
+
+    <string name="profile_title">Профиль</string>
+    <string name="profile_sleep_image_description">Луна и облака.</string>
+    <string name="profile_wake_image_description">Солнце.</string>
+    <string name="profile_time_image_description">Часы.</string>
+    <string name="profile_to_bed_text">Лёг спать:</string>
+    <string name="profile_woke_up_text">Проснулся:</string>
+    <string name="profile_time_slept_text">Время сна:</string>
+
+    <string name="horizontal_axis_title">День</string>
+    <string name="vertical_axis_title">Часов проспал</string>
+    <string name="stats_title">Статистика</string>
+    <string name="sleep_input_bedtime_text">Время сна</string>
+    <string name="sleep_input_wakeup_text">Время пробуждения</string>
+    <string name="sleep_save_button_text">Сохранить сон</string>
+    <string name="dropdown_desc">A drop down arrow.</string>
+
+    <string name="sleep_title">Сон</string>
+</resources>
